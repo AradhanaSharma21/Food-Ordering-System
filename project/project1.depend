@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1491287570 source:c:\users\cg-dte\desktop\c_programming\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1491277450 source:c:\users\cg-dte\desktop\c_programming\project1\check_pass.c
+	<stdio.h>
+	<stdlib.h>
+
+1491134501 source:c:\users\cg-dte\desktop\c_programming\project1\chinese_menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1491134277 source:c:\users\cg-dte\desktop\c_programming\project1\indian_menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1491134353 source:c:\users\cg-dte\desktop\c_programming\project1\continental_menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1491134325 source:c:\users\cg-dte\desktop\c_programming\project1\delight_menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1491134353 source:c:\users\cg-dte\desktop\c_programming\project1\menu_card.c
+	<stdio.h>
+	<stdlib.h>
+
+1491134342 source:c:\users\cg-dte\desktop\c_programming\project1\dessert_menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1491133623 source:c:\users\cg-dte\desktop\c_programming\project1\savetofile.c
+	<stdio.h>
+	<stdlib.h>
+
+1491277204 source:c:\users\cg-dte\desktop\c_programming\project1\ministat.c
+	<stdio.h>
+	<stdlib.h>
+
+1491277204 source:c:\users\cg-dte\desktop\c_programming\project1\readmyfile.c
+	<stdio.h>
+	<stdlib.h>
+
+1491286431 source:c:\users\cg-dte\desktop\c_programming\project1\check_user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

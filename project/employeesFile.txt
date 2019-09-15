@@ -1,0 +1,8 @@
+
+The name of the 1 employee is: Aradhana
+The age of the 1 employee is: 20
+The salary of the 1 employee is: 98765.125
+
+The name of the 2 employee is: Aashi
+The age of the 2 employee is: 20
+The salary of the 2 employee is: 876543.125
